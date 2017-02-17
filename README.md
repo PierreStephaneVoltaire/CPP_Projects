@@ -1,2 +1,1 @@
-# CPP_Projects
-collection of C++ projects
+# Factors_finder_C-
